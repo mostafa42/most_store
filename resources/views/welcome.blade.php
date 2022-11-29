@@ -1,0 +1,6 @@
+@include('layouts.header')
+@include('main.auth')
+@include('main.modal')
+@include('main.banner')
+@include('layouts.end_site')
+@include('layouts.footer')
